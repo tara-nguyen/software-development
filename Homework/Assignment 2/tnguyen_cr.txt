@@ -1,0 +1,13 @@
+Hi-Tech Leisure Products
+Current Ratio Report
+
+                Current           Current          Current
+Year            Assets            Liabilities      Ratio
+----------------------------------------------------------
+2010              47900             31007             1.54
+2011              34500              9100             3.79
+2012              57984             14822             3.91
+----------------------------------------------------------
+Average           46795             18310             3.08
+
+This report produced by Tara Nguyen.
