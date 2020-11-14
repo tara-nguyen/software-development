@@ -1,0 +1,14 @@
+Display "Blood Pressure Program".
+Display blank line.
+Display "This is just a guideline program. Please consult your doctor\n"
+        "for a more accurate analysis."
+Display blank line.
+Display "Please enter your first name: ".
+Input from user: name (character).
+Display "Please enter your age: ".
+Input from user: age (integer).
+Display blank line.
+Display "Thank you, " name ". You indicated that you are " age " years of age."
+Calculate maximum systolic blood pressure (float).
+max_sbp <- 120 + age / 2
+Display "Seek medical attention if your systolic blood pressure is " max_sbp " mm Hg or higher."

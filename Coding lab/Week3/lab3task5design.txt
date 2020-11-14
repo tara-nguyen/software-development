@@ -1,0 +1,7 @@
+Display "Temperature Conversion App".
+Display blank line.
+Display "Please enter a temperature in degrees Fahrenheit: ".
+Input from user: tempF (float).
+Calculate temperature in degrees Celcius (float).
+tempC <- (tempF - 32) * 5 / 9
+Display tempF " degrees F is equivalent to " tempC " degrees Celsius."

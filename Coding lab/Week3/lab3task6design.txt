@@ -1,0 +1,14 @@
+Display "Temperature Conversion App".
+Display blank line.
+Display "Please enter a temperature in degrees Fahrenheit: ".
+Input from user: tempF (float).
+Calculate temperature in degrees Celcius (float).
+tempC <- (tempF - 32) * 5 / 9
+Display tempF " degrees F is equivalent to " tempC " degrees Celsius."
+Display blank line.
+Display "This information has been recorded in a log file called tempchange.txt".
+Open the file.
+Print "Group 1" to the file.
+Print "F " tempF to the file.
+Print "C " tempC to the file.
+Close the file.

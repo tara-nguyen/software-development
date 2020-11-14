@@ -1,0 +1,10 @@
+Blood Pressure Report
+
+Patient Name           Age     Bp Warning Level
+
+Roberta Janss           22           131.0
+Jack Pawlazi            50           145.0
+Gary Lee                42           141.0
+Marj Fariss             67           153.5
+
+Average                 45           142.6
